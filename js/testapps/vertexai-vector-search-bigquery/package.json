@@ -22,14 +22,14 @@
     "@genkit-ai/vertexai": "workspace:*",
     "@google-cloud/bigquery": "^7.8.0",
     "dotenv": "^16.4.5",
-    "express": "^4.21.0",
+    "express": "^4.22.0",
     "genkitx-chromadb": "workspace:*",
     "genkitx-langchain": "workspace:*",
     "genkitx-pinecone": "workspace:*",
     "google-auth-library": "^9.11.0"
   },
   "devDependencies": {
-    "rimraf": "^6.0.1",
+    "rimraf": "^6.1.1",
     "typescript": "^5.5.2"
   }
 }
